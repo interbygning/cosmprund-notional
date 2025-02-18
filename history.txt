@@ -91,3 +91,4 @@
 2025-07-30 14:14:14 fix typo in docs
 2025-11-25 22:38:05 fix crash issue
 2025-01-04 16:29:35 hotfix applied
+2025-02-18 09:30:42 fix bug
